@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "nome": "Grand Theft Auto: San Andreas",
+        "ano": 2004,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/3930-1.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "God of War",
+        "ano": 2005,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/26-2.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Metal Gear Solid 3: Snake Eater",
+        "ano": 2004,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/97193-1.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Shadow of the Colossus",
+        "ano": 2005,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/2240-2.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Final Fantasy X",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/20-1.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Resident Evil 4",
+        "ano": 2005,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/89870-1.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Gran Turismo 4",
+        "ano": 2004,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/3929-1.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Jak and Daxter: The Precursor Legacy",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/4865-1.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Devil May Cry",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/15-1.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Ratchet & Clank",
+        "ano": 2002,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7797-1.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Kingdom Hearts",
+        "ano": 2002,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/2559-1.jpg"
+    },
+    {
+        "id": 12,
+        "nome": "Pro Evolution Soccer 6",
+        "ano": 2006,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/18681-1.jpg"
+    },
+    {
+        "id": 13,
+        "nome": "Silent Hill 2",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/4793-1.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Tony Hawk's Pro Skater 3",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/4772-1.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Okami",
+        "ano": 2006,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/111557-1.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Prince of Persia: The Sands of Time",
+        "ano": 2003,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/122145-1.jpg"
+    },
+    {
+        "id": 17,
+        "nome": "Dragon Ball Z: Budokai Tenkaichi 3",
+        "ano": 2007,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7224-1.jpg"
+    },
+    {
+        "id": 18,
+        "nome": "Tekken 5",
+        "ano": 2005,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/3753-2.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "Bully",
+        "ano": 2006,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/3931-1.jpg"
+    },
+    {
+        "id": 20,
+        "nome": "Persona 4",
+        "ano": 2008,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/9328-1.jpg"
+    },
+    {
+        "id": 21,
+        "nome": "Marvel vs. Capcom 2",
+        "ano": 2000,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/4821-1.jpg"
+    },
+    {
+        "id": 22,
+        "nome": "TimeSplitters 2",
+        "ano": 2002,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/3878-1.jpg"
+    },
+    {
+        "id": 23,
+        "nome": "Max Payne",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/4170-1.jpg"
+    },
+    {
+        "id": 24,
+        "nome": "NBA Street Vol. 2",
+        "ano": 2003,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7416-1.jpg"
+    },
+    {
+        "id": 25,
+        "nome": "SoulCalibur II",
+        "ano": 2002,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/113301-1.jpg"
+    },
+    {
+        "id": 26,
+        "nome": "ICO",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/2239-1.jpg"
+    },
+    {
+        "id": 27,
+        "nome": "Dynasty Warriors 5",
+        "ano": 2005,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7237-1.jpg"
+    },
+    {
+        "id": 28,
+        "nome": "Need for Speed: Underground 2",
+        "ano": 2004,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/76902-1.jpg"
+    },
+    {
+        "id": 29,
+        "nome": "Guitar Hero II",
+        "ano": 2006,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7187-1.jpg"
+    },
+    {
+        "id": 30,
+        "nome": "Twisted Metal: Black",
+        "ano": 2001,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7922-1.jpg"
+    },
+    {
+        "id": 31,
+        "nome": "Guitar Hero III: Legends of Rock",
+        "ano": 2007,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/7290-1.jpg"
+    },
+    {
+        "id": 32,
+        "nome": "FIFA Street 2",
+        "ano": 2006,
+        "imagem": "https://cdn.thegamesdb.net/images/thumb/boxart/front/12984-1.jpg"
+    }
+]
