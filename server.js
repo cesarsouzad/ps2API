@@ -2,8 +2,11 @@ const express = require('express');
 const app = express();
 const jogos = require('./jogos.json');
 const PORT = process.env.PORT || 3000;
+const cors = require('cors');
 
 app.use(express.json());
+
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Bem-vindo à API de Jogos PS2! Acesse /api/jogos para ver todos os jogos.');
